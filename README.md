@@ -1,0 +1,2 @@
+# AndroidStudioLearn
+用于保存学习AndroidStudio过程中的代码。最终的目的是写一个APP，能实现数据库的读写。
